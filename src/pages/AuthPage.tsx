@@ -46,7 +46,7 @@ const AuthPage = () => {
           <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-primary">
             <BookOpen className="h-7 w-7 text-primary-foreground" />
           </div>
-          <CardTitle className="text-2xl font-extrabold">KhataBook</CardTitle>
+          <CardTitle className="text-2xl font-extrabold">RecordBook</CardTitle>
           <CardDescription>
             {isLogin ? "Sign in to your account" : "Create a new account"}
           </CardDescription>
