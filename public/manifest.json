@@ -1,0 +1,24 @@
+{
+  "name": "RecordBook - Business Management",
+  "short_name": "RecordBook",
+  "description": "Manage your business finances, customers, and GST reports",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%236366f1'%3E%3Cpath d='M48 156a20 20 0 0 1 20-16h96V36H68a20 20 0 0 1-20 20v100z'/%3E%3Cpath d='M68 16h96v160H68a20 20 0 0 1-20-20V36a20 20 0 0 1 20-20z' fill='%236366f1'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%236366f1'%3E%3Cpath d='M128 416a53 53 0 0 1 53-43h256V96H181a53 53 0 0 1-53 53v267z'/%3E%3Cpath d='M181 43h256v426H181a53 53 0 0 1-53-53V96a53 53 0 0 1 53-53z' fill='%236366f1'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
